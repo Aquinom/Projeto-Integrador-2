@@ -8,7 +8,7 @@ Acesso Rápido:
 * [Operação](https://github.com/Aquinom/Projeto-Integrador-2/blob/main/Opera%C3%A7%C3%A3o.md)
 
 ---
-# Domótica
+## Domótica
 
 Da junção das palavras domus (casa) e robótica, a domótica veio facilitar nossas vidas através da automação de nossos lares. Iluminação, climatização, som, comunicação, segurança; todos interligados através de sensores e atuadores que permitem controle total na ponta de seus dedos. Por meio de softwares de gestão integrada, diversos equipamentos poderão ser monitorados, ativados e programados para rotinas específicas de qualquer lugar do mundo à qualquer hora do dia, trazendo mais conforto e praticidade ao dia a dia. 
 

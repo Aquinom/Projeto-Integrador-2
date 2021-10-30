@@ -10,7 +10,7 @@ Acesso Rápido:
 ---
 # Domótica
 
-Da junção das palavras domus (casa) e robótica, a domótica veio facilitar nossas vidas através da automação de nossos lares. Iluminação, climatização, som, comunicação, segurança; todos interligados através de sensores e atuadores que permitirão controle total na ponta de seus dedos. Por meio de softwares de gestão integrada, diversos equipamentos poderão ser monitorados, ativados e programados para rotinas específicas de qualquer lugar do mundo à qualquer hora do dia, trazendo mais conforto e praticidade ao dia a dia. 
+Da junção das palavras domus (casa) e robótica, a domótica veio facilitar nossas vidas através da automação de nossos lares. Iluminação, climatização, som, comunicação, segurança; todos interligados através de sensores e atuadores que permitem controle total na ponta de seus dedos. Por meio de softwares de gestão integrada, diversos equipamentos poderão ser monitorados, ativados e programados para rotinas específicas de qualquer lugar do mundo à qualquer hora do dia, trazendo mais conforto e praticidade ao dia a dia. 
 
 ![image](https://user-images.githubusercontent.com/92688963/139560489-daa68e16-ec79-45c6-a5b5-ef39041677bb.png)
 

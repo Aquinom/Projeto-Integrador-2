@@ -19,6 +19,6 @@ Falar sobre a segurança da domótica.
 
 
 Fontes: 
-* SISLITE. **O que é Domótica?**. 2021. Disponível em: http://www.sislite.pt/domus.htm. Acesso em: 22 maio 2021.
+* SISLITE. **O que é Domótica?**. 2021. Disponível em: http://www.sislite.pt/domus.htm/. Acesso em: 22 maio 2021.
 * ADAMI, Ana. **Domótica**. Info Escola. Disponível em: https://www.infoescola.com/tecnologia/domotica/. Acesso em: 30 de outubro de 2021.
 * MATTEDE, Henrique. **Domótica – O que é e quais as vantagens!**. Mundo da Elétrica. Disponível em: https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/.             Acesso em: 30 de outubro de 2021.

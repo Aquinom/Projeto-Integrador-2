@@ -14,7 +14,7 @@ Da junção das palavras domus (casa) e robótica, a domótica veio facilitar no
 
 ![image](https://user-images.githubusercontent.com/92688963/139560489-daa68e16-ec79-45c6-a5b5-ef39041677bb.png)
 
-Falar sobre a segurança da domótica.
+Alguns dos pontos fortes da domótica são a segurança, a praticidade, e a economia de gastos residênciais recorrentes. Na parte da segurança, é possível acessar e controlar câmeras e fechaduras, assim como monitorar sensores como detectores de movimento e de gás. Essas funções podem ser acessadas de diversos aparelhos eletrônicos ou programadas para tomadas de decisões automáticas em uma central de processamento, permitindo manejo absoluto. Para que funcionem de maneira correta, protocolos de segurança específicos devem ser implementados para garantir que pessoas mal intencionadas não consigam acesso ao sistema. 
 
 
 

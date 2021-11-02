@@ -16,8 +16,7 @@ Da junção das palavras domus (casa) e robótica, a domótica veio facilitar no
 
 Alguns dos pontos fortes da domótica são a segurança, a praticidade, e a economia de gastos residênciais recorrentes. Um destaque especial é segurança, podemos acessar e controlar câmeras e fechaduras, assim como monitorar sensores como detectores de movimento e de gás. Essas funções podem ser acessadas de diversos aparelhos eletrônicos ou programadas para tomadas de decisões automáticas em uma central de processamento, permitindo manejo absoluto. Para que funcionem de maneira correta, protocolos de segurança específicos devem ser implementados para garantir que pessoas mal intencionadas não consigam acesso ao sistema. 
 
-Apesar de muito promissora, a domótica não é muito difundida. Hoje, os principais fatores que impedem ser popular é o custo e falta de notoriedade sobre o tema. Apesar de uma redução exponencial nos custos dos eletrônicos tenha ocorrido nas últimas décadas
-
+Mesmo que muito promissora, a domótica não é muito difundida. Hoje, os principais fatores que impedem ser popular é o custo e falta de notoriedade sobre o tema. Embora uma redução exponencial nos custos dos eletrônicos tenha ocorrido nas últimas décadas, a junção da tecnologia e do lar é mais presente em famílias de alta renda. Muitas vezes o custo da substituição de equipamentos e instalação é superior ao estilo de vida que a população pode arcar. Sendo assim, projetos de baixo custo prometem trazer conforto, comodidade e segurança à nossas casas são uma grande promessa para o futuro.
 
 
 Fontes: 

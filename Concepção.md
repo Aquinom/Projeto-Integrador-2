@@ -10,3 +10,12 @@ Acesso Rápido:
 ---
 
 Este projeto tem como objetivo desenvolver todos os aspectos de automação para uma casa inteligente, desde sua ideia inicial até a operação no mundo real. Através do método CDIO e empregando princípios básicos de domótica, será desenvolvido um sistema eletrônico de baixo custo capaz de gerenciar vários aspectos de uma residência trazendo conforto, comodidade e segurança.
+
+Abaixo estão algumas das funções a serem implementadas:
+
+* Sensoriar temperatura e tomar uma decisão adequada;
+* Sensoriar a presença de pessoas e tomar uma decisão adequada;
+* Sensoriar vazamento de gás e tomar uma decisão adequada;
+* Controlar a iluminação da residência;
+* Controlar um atuador ligado a um portão ou persiana.
+

@@ -9,5 +9,5 @@ Acesso Rápido:
 
 ---
 
-Introdução
+Este projeto tem como objetivo desenvolver todos os aspectos de uma casa inteligente de baixo custo, desde sua ideia inicial até a operação no mundo real. Por meio dele será possível perceber como a tecnologia pode ser uma aliada do conforto, comodidade e sugurança em nossos lares através da domótica.
 

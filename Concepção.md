@@ -19,3 +19,4 @@ Abaixo estão algumas das funções a serem implementadas:
 * Controlar a iluminação da residência;
 * Controlar um atuador ligado a um portão ou persiana.
 
+![PI2 drawio (2)](https://user-images.githubusercontent.com/92688963/139969140-f6a0feef-729a-44d8-971e-1e9b81ce0097.png)

@@ -19,7 +19,7 @@ Alguns dos pontos fortes da domótica são a segurança, a praticidade, e a econ
 Mesmo que muito promissora, a domótica não é muito difundida. Hoje, os principais fatores que impedem ser popular é o custo e falta de notoriedade sobre o tema. Embora uma redução exponencial nos custos dos eletrônicos tenha ocorrido nas últimas décadas, a junção da tecnologia e do lar é mais presente em famílias de alta renda, pois muitas vezes o custo da substituição de equipamentos e instalação é superior ao estilo de vida que podem arcar. Sendo assim, projetos de baixo custo que prometem trazer conforto, comodidade e segurança à todos por meio da domótica são uma grande promessa para o futuro.
 
 
-Fontes: 
+## Referências 
 * SISLITE. **O que é Domótica?**. 2021. Disponível em: http://www.sislite.pt/domus.htm/. Acesso em: 22 maio 2021.
 * ADAMI, Ana. **Domótica**. Info Escola. Disponível em: https://www.infoescola.com/tecnologia/domotica/. Acesso em: 30 de outubro de 2021.
 * MATTEDE, Henrique. **Domótica – O que é e quais as vantagens!**. Mundo da Elétrica. Disponível em: https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/.             Acesso em: 30 de outubro de 2021.

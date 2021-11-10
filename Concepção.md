@@ -13,10 +13,10 @@ Este projeto tem como objetivo desenvolver todos os aspectos de automação para
 
 Abaixo estão algumas das funções a serem implementadas:
 
-* Sensoriar temperatura e tomar uma decisão adequada;
-* Sensoriar a presença de pessoas e tomar uma decisão adequada;
-* Sensoriar vazamento de gás e tomar uma decisão adequada;
-* Controlar a iluminação da residência;
-* Controlar um atuador ligado a um portão ou persiana.
+* Sensoriar temperatura e abrir ou fechar uma janela para refrigerar a casa. Deve ter prioridade menor que o sensor de gás.
+* Sensoriar a presença de pessoas e disparar o sistema de alarme.
+* Sensoriar vazamento de gás e então desativar componentes eletrônicos que possam gerar faíscas e disparar um alarme. Em baixas concentrações abrir a janela.
+* Controlar um atuador ligado a uma janela
+* Sensor de chuva avisando o morador da residência que está a chover. Fechar as janelas.
 
 ![PI2 drawio (2)](https://user-images.githubusercontent.com/92688963/139969140-f6a0feef-729a-44d8-971e-1e9b81ce0097.png)

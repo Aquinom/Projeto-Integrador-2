@@ -13,8 +13,9 @@ Este projeto tem como objetivo desenvolver todos os aspectos de automação para
 
 Abaixo estão algumas das funções a serem implementadas:
 
+* Central de monitoramento baseada em Arduino.
 * Sensoriar temperatura e abrir ou fechar uma janela para refrigerar a casa. Deve ter prioridade menor que o sensor de gás.
-* Sensoriar a presença de pessoas e disparar o sistema de alarme.
+* Sensoriar a presença de pessoas e disparar o sistema de alarme (buzzer).
 * Sensoriar vazamento de gás e então desativar componentes eletrônicos que possam gerar faíscas e disparar um alarme. Em baixas concentrações abrir a janela.
 * Controlar um atuador ligado a uma janela
 * Sensor de chuva avisando o morador da residência que está a chover. Fechar as janelas.

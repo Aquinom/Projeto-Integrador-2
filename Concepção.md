@@ -21,3 +21,17 @@ Abaixo estão algumas das funções a serem implementadas:
 * Sensor de chuva avisando o morador da residência que está a chover. Fechar as janelas.
 
 ![PI2 drawio (2)](https://user-images.githubusercontent.com/92688963/139969140-f6a0feef-729a-44d8-971e-1e9b81ce0097.png)
+
+## Hardware
+
+* 1x Arduino Mega 2560 R3
+* 1x Sensor de umidade e temperatura DHT11
+* 1x Sensor de presença e movimento PIR
+* 1x Sensor de gás MQ-2
+* 1x Micro Servo SG92R 9g TowerPro
+* 1x  Módulo Sensor de Umidade/Nível Água Chuva
+* 1x Módulo Relé 5 V
+* 1x Sensor ultrasônico HC-SR04
+* 1x Módulo Matriz de LED 8×8 com MAX7219
+* 1x Buzzer
+* 1x Display LCD 16×2 I2C Backlight Azul

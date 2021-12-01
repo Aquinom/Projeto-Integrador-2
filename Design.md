@@ -23,9 +23,9 @@ Os componentes a seguir serão testados utilizando o Arduino Mega 2560 R3:
 * 1x Buzzer
 * 1x Display LCD 16×2 I2C Backlight Azul
 
-### Arduino Mega 2560 R3
+### Arduino Mega 2560 R3 
 
-Descrição do componente.
+Descrição do componente. RETIRAR A LISTA DE MATERIAIS E COLOCAR AQUI. COMPLEMENTAR MAIS DETALHES NA CONCEPÇÃO.
 
 ### Sensor DHT11
 

@@ -11,3 +11,14 @@ Acesso Rápido:
 
 Definido as necessidades do projeto, é possível desenhar a maquete do circuito final no software Fritzing de forma que auxilie no processo de montagem. Também nesta etapa alguns dos sistemas vão ter suas funcionalidades avaliadas de forma individual. 
 
+Os componentes a seguir serão testados utilizando o Arduino Mega 2560 R3:
+
+* 1x Sensor de umidade e temperatura DHT11
+* 1x Sensor de presença e movimento PIR
+* 1x Sensor de gás MQ-2
+* 1x Micro Servo SG92R 9g TowerPro
+* 1x  Módulo Sensor de Umidade/Nível Água Chuva
+* 1x Sensor ultrasônico HC-SR04
+* 1x Módulo Matriz de LED 8×8 com MAX7219
+* 1x Buzzer
+* 1x Display LCD 16×2 I2C Backlight Azul

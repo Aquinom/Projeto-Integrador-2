@@ -22,3 +22,44 @@ Os componentes a seguir serão testados utilizando o Arduino Mega 2560 R3:
 * 1x Módulo Matriz de LED 8×8 com MAX7219
 * 1x Buzzer
 * 1x Display LCD 16×2 I2C Backlight Azul
+
+### Arduino Mega 2560 R3
+
+Descrição do componente.
+
+### Sensor DHT11
+
+Descrição do componente.
+
+### Sensor PIR
+
+Descrição do componente.
+
+### Sensor MQ2
+
+Descrição do componente.
+
+### Servo SG92R
+
+Descrição do componente.
+
+### Sensor de Umidade
+
+Descrição do componente.
+
+### Sensor HC-SR04
+
+Descrição do componente.
+
+### Matriz de LED MAX7219
+
+Descrição do componente.
+
+### Buzzer
+
+Descrição do componente.
+
+### Display I2C
+
+Descrição do componente.
+

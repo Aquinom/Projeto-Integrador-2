@@ -59,11 +59,11 @@ Recebe esse nome pois cada LED possui um endereço na matriz, um para linha e ou
 
 Podendo ser do tipo ativo ou passivo. O primeiro não pode ser utilizado para se criar melodias, diferente do segundo que ao ter a frequência de alimentação alterada, permite a reprodução de sons mais complexos.
 
-## Display I2C
+### Display I2C
 
 Tela LCD que utiliza o protocolo serial I2C para transmissão dados. Neste projeto o Arduino MEGA é o controlador (mestre) e o display o periférico (escravo).
 
-### Maquete Eletrônica
+## Maquete Eletrônica
 
 ![image](https://user-images.githubusercontent.com/92688963/145125054-17db91c0-5587-447f-8d66-fe37137208cd.png)
 

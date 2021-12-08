@@ -9,7 +9,7 @@ Acesso Rápido:
 
 ---
 
-Definido as necessidades do projeto, é possível desenhar a maquete do circuito final no software Fritzing de forma que auxilie no processo de montagem. Também nesta etapa alguns dos sistemas vão ter suas funcionalidades avaliadas de forma individual. 
+Definido as necessidades do projeto, é possível desenhar a maquete do circuito final no software Fritzing de forma que auxilie no processo de montagem. Também nesta etapa alguns dos sistemas vão ter suas funcionalidades exploradas de forma individual. 
 
 ## Componentes Utilizados
 

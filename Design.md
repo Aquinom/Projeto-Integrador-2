@@ -63,3 +63,8 @@ Descrição do componente.
 
 Descrição do componente.
 
+### Maquete Eletrônica
+
+![image](https://user-images.githubusercontent.com/92688963/145125054-17db91c0-5587-447f-8d66-fe37137208cd.png)
+
+

@@ -11,7 +11,7 @@ Acesso Rápido:
 
 Definido as necessidades do projeto, é possível desenhar a maquete do circuito final no software Fritzing de forma que auxilie no processo de montagem. Também nesta etapa alguns dos sistemas vão ter suas funcionalidades avaliadas de forma individual. 
 
-Os componentes a seguir serão testados utilizando o Arduino Mega 2560 R3:
+## Componentes Utilizados
 
 * 1x Sensor de umidade e temperatura DHT11
 * 1x Sensor de presença e movimento PIR
@@ -59,7 +59,7 @@ Recebe esse nome pois cada LED possui um endereço na matriz, um para linha e ou
 
 Podendo ser do tipo ativo ou passivo. O primeiro não pode ser utilizado para se criar melodias, diferente do segundo que ao ter a frequência de alimentação alterada, permite a reprodução de sons mais complexos.
 
-### Display I2C
+## Display I2C
 
 Tela LCD que utiliza o protocolo serial I2C para transmissão dados. Neste projeto o Arduino MEGA é o controlador (mestre) e o display o periférico (escravo).
 

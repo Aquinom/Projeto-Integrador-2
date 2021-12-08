@@ -14,7 +14,7 @@ Definido as necessidades do projeto, é possível desenhar a maquete do circuito
 ## Componentes Utilizados
 
 | Componente |  Quantidade  |
-| ------------------- | ------------------- |
+| :------------------- | :-------------------: |
 |  Sensor de umidade e temperatura DHT11 |  1 |
 |  Sensor de presença e movimento PIR |  1 |
 |  Sensor de gás MQ-2 |  1 |

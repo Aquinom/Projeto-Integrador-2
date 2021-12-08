@@ -13,19 +13,21 @@ Definido as necessidades do projeto, é possível desenhar a maquete do circuito
 
 ## Componentes Utilizados
 
-* 1x Sensor de umidade e temperatura DHT11
-* 1x Sensor de presença e movimento PIR
-* 1x Sensor de gás MQ-2
-* 1x Micro Servo SG92R 9g TowerPro
-* 1x  Módulo Sensor de Umidade/Nível Água Chuva
-* 1x Sensor ultrasônico HC-SR04
-* 1x Módulo Matriz de LED 8×8 com MAX7219
-* 1x Buzzer
-* 1x Display LCD 16×2 I2C Backlight Azul
+| Componente |  Quantidade  |
+| ------------------- | ------------------- |
+|  Sensor de umidade e temperatura DHT11 |  1 |
+|  Sensor de presença e movimento PIR |  1 |
+|  Sensor de gás MQ-2 |  1 |
+|  1x Micro Servo SG92R 9g TowerPro |  1 |
+|  Módulo Sensor de Umidade/Nível Água Chuva |  1 |
+|  Sensor ultrasônico HC-SR04|  1 |
+|  Módulo Matriz de LED 8×8 com MAX7219|  1 |
+|  Buzzer |  1 |
+|  Display LCD 16×2 I2C Backlight Azul |  1 |
 
 ### Arduino Mega 2560 R3 
 
-Descrição do componente. RETIRAR A LISTA DE MATERIAIS E COLOCAR AQUI. COMPLEMENTAR MAIS DETALHES NA CONCEPÇÃO.
+Cérebro do projeto, com seu núcleo ATmega2560 e 4KB de E2PROM, é a ferramenta de processamento perfeita para implementar a lógica de tomada de decisões e comunicação com sensores. 
 
 ### Sensor DHT11
 

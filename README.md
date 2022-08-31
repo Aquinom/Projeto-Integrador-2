@@ -21,7 +21,9 @@ Para veículos destinados ao público geral, a Sociedade de Engenheiros Automoti
 * **Nível 4**: Alta automação. É capaz de desempenhar todas as ações necessárias para a condução do veículo em condições que não há a necessidade da atenção de um humano.
 * **Nível 5**: Automação total. Exerce todas as funções sem a necessidade de intervenção humana, sob todas as condições.
 
+As principais aplicações para o setor industrial é do transporte de cargas como equipamentos e materiais de forma automatizada, dispensando a necessidade de um operador. Por meio de softwares de controle, estes veículos são capazes de revolucionar os conceitos de linha de montagem sob demanda. Para aplicações comerciais é notável o carro automatizado, onde tem como objetivo um maior conforto, comodidade e segurança se comparado aos veículos convencionais.
 
+Os maiores desafios relacionados a veículos autônomos é a tecnologia, questões éticas, questões políticas e infraestrutura.
 
 ## Referências 
 * 1 https://www.synopsys.com/automotive/what-is-autonomous-car.html. Acessado em 

@@ -14,15 +14,17 @@ Um veículo autônomo, também conhecido como veículo sem motorista, é aquele 
 
 Para veículos destinados ao público geral, a Sociedade de Engenheiros Automotivos (SAE) define 6 níveis de automatização que variam desde totalmente manual (Nível 0) até totalmente automatizado (Nível 5):
 
-* Nível 0: Sem automação. 
-* Nível 1: Assistência ao Motorista.
-* Nível 2: Automação Parcial.
-* Nível 3: Automação Condicional.
-* Nível 4: Alta automação.
-* Nível 5: Automação total.
+* **Nível 0**: Sem automação. O motorista humano executa todas as ações necessárias.
+* **Nível 1**: Assistência ao Motorista. É capaz de auxiliar o motorista humano em tarefas como acelaração e frenagens. Temos como exemplo controle de velocidade, estabilidade e os freios ABS.
+* **Nível 2**: Automação Parcial. O veículo possui sistemas capazes de realizar frenagens, acelerações e movimentos na direção. O motorista monitora as outras funções e é capaz de intervir a qualquer momento.
+* **Nível 3**: Automação Condicional. É capaz de efetuar todas as tarefas necessárias para a condução do veículo, mas um humano é necessário para retomada de controle quando solicitado pelo sistema.
+* **Nível 4**: Alta automação. É capaz de desempenhar todas as ações necessárias para a condução do veículo em condições que não há a necessidade da atenção de um humano.
+* **Nível 5**: Automação total. Exerce todas as funções sem a necessidade de intervenção humana, sob todas as condições.
+
 
 
 ## Referências 
-* 1
-* 2
-* 3
+* 1 https://www.synopsys.com/automotive/what-is-autonomous-car.html. Acessado em 
+* 2 https://www.techopedia.com/definition/30056/autonomous-vehicle.  Acessado em 
+* 3 https://www.twi-global.com/technical-knowledge/faqs/what-is-an-autonomous-vehicle.  Acessado em 
+* 4 https://news.ifood.com.br/o-que-e-um-veiculo-autonomo/. Acessado em
